@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "leaked-creds",
+    "private_key_id": "219e0aeff217023188923bbe239ffc8de83ce7fd",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAzp+5WQGrFRry\nT/A7RDSuVUOhMzPWoXlWFu360A9pl7aQsp8h+NR9KZ5vB6pzvmfK3cz79pbz/oOP\nP5nBvfl85L2JWx3VdIZ6UBL1p/TS7cMxdGD7zmt8tfrRqLWX0GMJvyG+qWk/nOJA\nALhkyDjuOmpNmRLMHQ+RvVIWSZGmy9/e7QAk7hgupLajB96mwaufcU9MKtyj5G34\nV3DJ4jIzYMbfzAZuvFUq3QsOb/tLB3wyAlA9Koh1xm0p77m+IQ8ElX4rpmeNBtun\ngxcDUBuEecA7QglUSchsZNo9FYoBv/RaQxc05UH5n0wAAcJs0LvquZ2dxEilIEV8\nZw8QvBkzAgMBAAECggEABgp5rpk34tztMC1jvTLVtfvxDNBLx5kQ2HfXpkBG7PIh\nCi/Gh+OGInEfjF4m8/AoMmzSB8iw3pCqcsTGiUTUJLzbLjWld1l7up/v+s2vd98v\nAydce72lYPifWTiE0vcrqiS+83yBr/zZRX6PN2ONp3wZQwV7V3UctHf3bp4RRsPF\nGQsKH7GrGl+gu8/p71QEY1BYGpEJK4h9UHCuxZh7vQPYZDdV0vSub6XmiQ5qF+S5\nwwf8KrwOZv6gtyFVGd9E4KhimuB6z2UeGrwEeo61DPasai7m9zS1mCWuayVGXXak\ncjyuEL0OA9K9tZUMfHGUoZnyfNSF7drUIbHai8I+eQKBgQD4L4VTScArsiINofDP\nmoemEf/Z7Cx8jVR9/+o+flxIDJG4swDf6LNbilsC9c/6dGJuQ3pDSVqMpxHdnGnj\n50yhyF3ERI4R5M9RX9810uNBOvkZEHTDTUvX1Wa1ZpqxmRYBcU8vPGuWSOqxs74p\nLTJNdldrhlNSiTJQaFiec6v0ewKBgQDG4Lq5ZwWyO9jImYwRLsikS4/To52coRM+\n5stBvqbqZJDRUYTb25wxyvRiUK8z/J0cKIC6dTD7sFsoAjHFw5m/zqJuLk5i4Tjx\n46uTEm45G+TgXDhg4YStqYwThYBQIcpSN4slosjpFyevQbngQDrSFENdhsK9Wi0E\nzyfMKvrcqQKBgGKwIsf3r56werIJDwS+Yeo7hg1VyGrOmCZyOOcYwAE2Xkufgl2G\n3qsr3PzUWhsxZGKMGnXfGU6MsKH6rHCfbO14CzEcQZID9hxZjxyL+ynZFWxOCuAO\nQHZWuTywzBqK0SFJuT8DO5TK8egvnRIqkrISuLhc9Y0AWS14EKURQfM5AoGABzEl\nT4McP5/ObSKwYAazFs3su5iVII7qpUGvZAdC/gL5AbjS9yhv85UFVXDZhSXDgLsu\nPI/0X4W3JjE+H4q9SqRsV1OxXf4LEyRKlhz6g3IwyrRLDaXaKHWTLTmMtFkkeeis\nTYYfgd5mfv3/fM6V0fcNoJo4/KQAMMZVCBsdy1ECgYEAhMkvD3JjsPFJNVHQJ5tS\ntnoPR+iknJBlDxIINwzU1euUDhudLuN9/gipvm2rwgEiHLm6Q2MEF231tWSgUSY2\nVkaQgm0hHNPqvbUzezbu4QDSa+ggVNY7juoJwaSBXnrBNgOsHYucvrxl20XQy62n\nOSAIPW2aQ8LwW30AXpdbyK0=\n-----END PRIVATE KEY-----\n",
+    "client_email": "leaked-2-deleted@leaked-creds.iam.gserviceaccount.com",
+    "client_id": "100838084412354251688",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leaked-2-deleted%40leaked-creds.iam.gserviceaccount.com"
+  }
+  
